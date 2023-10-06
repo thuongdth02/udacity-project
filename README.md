@@ -104,4 +104,4 @@ kubectl patch configmap/aws-auth -n kube-system --patch "$(cat /tmp/aws-auth-pat
 
 ## Testing
 
-Elastic Load Balancer (ELB): ab4ccbbbba54445fea30eb36d318614e-1576218396.us-east-2.elb.amazonaws.com
+Elastic Load Balancer (ELB): http://ab4ccbbbba54445fea30eb36d318614e-1576218396.us-east-2.elb.amazonaws.com
